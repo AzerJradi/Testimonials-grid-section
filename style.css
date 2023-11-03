@@ -1,0 +1,254 @@
+:root{
+    --grey: #c1c0b9
+}
+body{
+    background-color: lightblue;
+}
+/* start daniel css */
+.div1{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 650px;
+    background-color: #9d53c3;
+    border-radius: 8px;
+}
+.name1{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+}
+.photo1{
+    width: 40px;
+}
+.pdp1{
+    position: relative;
+    top: 38px;
+    left: 55px;
+}
+.work1{
+    position: relative;
+    top: -38px;
+    left: 55px;
+    color: var(--grey)
+}
+.para1{
+    color: white;
+    position: relative;
+    left: 20px;
+    bottom: 50px;
+    font-family: arial,fantasy;
+    font-size: 24px;
+    letter-spacing: 1px;
+    color: white;
+}
+.para2{
+    color: var(--grey);
+    font-size: 16px;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    letter-spacing: 1px;
+}
+/* end daniel css */
+
+/* satrt Jonathan Walters */
+.div2{
+    margin-top: 50px;
+    margin-right: 1000px;
+    position: relative;
+    bottom: 384px;
+    left: 850px;
+    background-color: #475053;
+    border-radius: 8px;
+    height: 336px;
+
+}
+.name2{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+}
+.photo2{
+    width: 40px;
+}
+.pdp2{
+    position: relative;
+    top: 38px;
+    left: 55px;
+    color: white;
+}
+.work2{
+    position: relative;
+    top: -38px;
+    left: 55px;
+    color: var(--grey)
+}
+.par1{
+    color: white;
+    position: relative;
+    left: 25px;
+    bottom: 50px;
+    font-family: arial,fantasy;
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+.par2{
+    color: var(--grey);
+    font-size: 18px;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    letter-spacing: 2px;
+}
+/* end jonathan */
+
+/* start janette */
+.div3{
+    margin-top: 100px;
+    margin-right: 1000px;
+    position: relative;
+    bottom: 454px;
+    left: 50px;
+    background-color: white;
+    border-radius: 8px;
+
+}
+.name3{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+}
+.photo3{
+    width: 40px;
+}
+.pdp3{
+    position: relative;
+    top: 38px;
+    left: 55px;
+    color: black;
+}
+.work3{
+    position: relative;
+    top: -38px;
+    left: 55px;
+    color: var(--grey)
+}
+.paa1{
+    position: relative;
+    left: 25px;
+    bottom: 50px;
+    font-family: arial,fantasy, black;
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+.paa2{
+    color: var(--grey);
+    font-size: 20px;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    letter-spacing: 2px;
+}
+/* end janette */
+
+/* start patrick css */
+.div4{
+    margin-top: 83px;
+    margin-left: 50px;
+    margin-right: 650px;
+    background-color: #00204a;
+    border-radius: 8px;
+    position: relative;
+    left: 500px;
+    bottom: 855px;
+
+}
+.name4{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    color: white;
+}
+.photo4{
+    width: 40px;
+    border: 2px solid #9d53c3;
+    border-radius: 22px;
+}
+.pdp4{
+    position: relative;
+    top: 38px;
+    left: 55px;
+}
+.work4{
+    position: relative;
+    top: -38px;
+    left: 55px;
+    color: var(--grey)
+}
+.pa1{
+    color: white;
+    position: relative;
+    left: 20px;
+    bottom: 50px;
+    font-family: arial,fantasy;
+    font-size: 24px;
+    letter-spacing: 1px;
+    color: white;
+}
+.pa2{
+    color: var(--grey);
+    font-size: 16px;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    letter-spacing: 1px;
+}
+/* end patrick css */
+
+/* start Kira Whittle */
+.div5{
+    background-color: white;
+    position: relative;
+    bottom: 1560px;
+    left: 1350px;
+    margin-right: 1050px;
+    border-radius: 8px;
+    height: 690px;
+}
+.name5{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+}
+.photo5{
+    width: 40px;
+}
+.pdp5{
+    position: relative;
+    top: 38px;
+    left: 55px;
+}
+.work5{
+    position: relative;
+    top: -38px;
+    left: 55px;
+    color: var(--grey)
+}
+.p1{
+    color: black;
+    position: relative;
+    left: 20px;
+    bottom: 50px;
+    font-family: arial,fantasy;
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+.p2{
+    color: var(--grey);
+    font-size: 20px;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    letter-spacing: 1px;
+}
+/*  end Kira Whittle */
